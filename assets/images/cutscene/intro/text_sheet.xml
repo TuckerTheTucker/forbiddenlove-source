@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="text_sheet.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="text10000" x="0" y="0" width="1194" height="110"/>
+	<SubTexture name="text20000" x="0" y="110" width="1194" height="150"/>
+	<SubTexture name="text30000" x="0" y="260" width="1194" height="110"/>
+	<SubTexture name="text40000" x="0" y="370" width="1194" height="150"/>
+	<SubTexture name="text50000" x="0" y="520" width="1194" height="179"/>
+</TextureAtlas>

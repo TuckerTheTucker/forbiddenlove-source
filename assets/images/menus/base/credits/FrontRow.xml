@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FrontRow.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Frontblink00000" x="0" y="0" width="939" height="354"/>
+	<SubTexture name="Frontblink00001" x="0" y="0" width="939" height="354"/>
+	<SubTexture name="Frontblink00002" x="0" y="0" width="939" height="354"/>
+	<SubTexture name="Frontblink10000" x="0" y="354" width="939" height="354"/>
+	<SubTexture name="Frontblink10001" x="0" y="354" width="939" height="354"/>
+	<SubTexture name="Frontblink10002" x="0" y="354" width="939" height="354"/>
+	<SubTexture name="Frontblink20000" x="0" y="708" width="939" height="354"/>
+	<SubTexture name="Frontblink20001" x="0" y="708" width="939" height="354"/>
+	<SubTexture name="Frontblink20002" x="0" y="708" width="939" height="354"/>
+	<SubTexture name="Frontblink30000" x="0" y="1062" width="939" height="354"/>
+	<SubTexture name="Frontblink30001" x="0" y="1062" width="939" height="354"/>
+	<SubTexture name="Frontblink30002" x="0" y="1062" width="939" height="354"/>
+	<SubTexture name="Frontblink40000" x="0" y="1416" width="939" height="354"/>
+	<SubTexture name="Frontblink40001" x="0" y="1416" width="939" height="354"/>
+	<SubTexture name="Frontblink40002" x="0" y="1416" width="939" height="354"/>
+</TextureAtlas>

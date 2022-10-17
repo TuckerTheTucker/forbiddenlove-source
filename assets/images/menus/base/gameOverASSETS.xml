@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gameOverASSETS.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bg0000" x="0" y="0" width="1280" height="720"/>
+	<SubTexture name="gameOver0000" x="1280" y="0" width="716" height="202"/>
+	<SubTexture name="hover0000" x="1280" y="202" width="586" height="76"/>
+	<SubTexture name="menuButton0000" x="1280" y="278" width="428" height="70"/>
+	<SubTexture name="menuButton-select0000" x="1280" y="348" width="428" height="70"/>
+	<SubTexture name="retryButton0000" x="1280" y="418" width="428" height="70"/>
+	<SubTexture name="retryButton-select0000" x="1280" y="488" width="428" height="70"/>
+</TextureAtlas>

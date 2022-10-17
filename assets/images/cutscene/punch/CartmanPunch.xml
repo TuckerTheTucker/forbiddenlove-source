@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CartmanPunch.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="punch instance 10000" x="0" y="0" width="1106" height="1075" frameX="-118" frameY="-10" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10001" x="1106" y="0" width="1106" height="1075" frameX="-118" frameY="-10" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10002" x="2212" y="0" width="1130" height="1075" frameX="-94" frameY="-10" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10003" x="0" y="1075" width="1156" height="1075" frameX="-68" frameY="-10" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10004" x="1156" y="1075" width="1208" height="1075" frameX="-16" frameY="-10" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10005" x="2364" y="1075" width="1224" height="1075" frameX="0" frameY="-10" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10006" x="0" y="2150" width="1205" height="1075" frameX="-19" frameY="-10" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10007" x="1205" y="2150" width="1073" height="1081" frameX="-151" frameY="-4" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10008" x="2278" y="2150" width="1045" height="1085" frameX="-179" frameY="0" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10009" x="0" y="3235" width="1037" height="1087" frameX="-220" frameY="-123" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10010" x="1037" y="3235" width="1094" height="1112" frameX="-218" frameY="-110" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10011" x="2131" y="3235" width="1067" height="1131" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10012" x="0" y="4366" width="1090" height="1124" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10013" x="1090" y="4366" width="1035" height="1099" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10014" x="2125" y="4366" width="755" height="1220" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10015" x="2880" y="4366" width="776" height="1334" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10016" x="0" y="5700" width="559" height="978" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10017" x="0" y="5700" width="559" height="978" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10018" x="0" y="5700" width="559" height="978" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10019" x="0" y="5700" width="559" height="978" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10020" x="0" y="5700" width="559" height="978" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10021" x="0" y="5700" width="559" height="978" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10022" x="0" y="5700" width="559" height="978" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10023" x="0" y="5700" width="559" height="978" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10024" x="0" y="5700" width="559" height="978" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10025" x="0" y="5700" width="559" height="978" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10026" x="0" y="5700" width="559" height="978" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+	<SubTexture name="punch instance 10027" x="0" y="5700" width="559" height="978" frameX="-218" frameY="-107" frameWidth="1312" frameHeight="1441"/>
+</TextureAtlas>

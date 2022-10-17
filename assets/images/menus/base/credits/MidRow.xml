@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MidRow.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Luci blink0000" x="15" y="15" width="1173" height="288"/>
+	<SubTexture name="Luci blink0001" x="15" y="15" width="1173" height="288"/>
+	<SubTexture name="avenge blink0000" x="15" y="318" width="1173" height="288"/>
+	<SubTexture name="avenge blink0001" x="15" y="318" width="1173" height="288"/>
+	<SubTexture name="mid no blink0000" x="15" y="621" width="1173" height="288"/>
+	<SubTexture name="mid no blink0001" x="15" y="621" width="1173" height="288"/>
+	<SubTexture name="thirft blink0000" x="15" y="924" width="1173" height="288"/>
+	<SubTexture name="thirft blink0001" x="15" y="924" width="1173" height="288"/>
+	<SubTexture name="vanilla blink0000" x="15" y="1227" width="1173" height="288"/>
+	<SubTexture name="vanilla blink0001" x="15" y="1227" width="1173" height="288"/>
+</TextureAtlas>

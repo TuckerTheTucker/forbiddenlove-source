@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KennyDies.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="anim instance 10000" x="0" y="0" width="973" height="1409" frameX="-22" frameY="0" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10001" x="973" y="0" width="973" height="1409" frameX="-22" frameY="0" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10002" x="1946" y="0" width="1006" height="1398" frameX="-64" frameY="-11" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10003" x="2952" y="0" width="1007" height="1397" frameX="-63" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10004" x="0" y="1409" width="1004" height="1400" frameX="-48" frameY="-9" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10005" x="1946" y="0" width="1006" height="1398" frameX="-64" frameY="-11" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10006" x="2952" y="0" width="1007" height="1397" frameX="-63" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10007" x="1004" y="1409" width="1007" height="1397" frameX="-63" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10008" x="2011" y="1409" width="778" height="1397" frameX="-117" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10009" x="2011" y="1409" width="778" height="1397" frameX="-117" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10010" x="2789" y="1409" width="1006" height="1397" frameX="-59" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10011" x="2789" y="1409" width="1006" height="1397" frameX="-59" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10012" x="2011" y="1409" width="778" height="1397" frameX="-117" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10013" x="0" y="2809" width="1006" height="1397" frameX="-59" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10014" x="1006" y="2809" width="778" height="1397" frameX="-117" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10015" x="1784" y="2809" width="778" height="1397" frameX="-117" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10016" x="1784" y="2809" width="778" height="1397" frameX="-117" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10017" x="2562" y="2809" width="838" height="1340" frameX="-117" frameY="-12" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10018" x="0" y="4206" width="795" height="1067" frameX="-120" frameY="-27" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10019" x="795" y="4206" width="803" height="1038" frameX="-110" frameY="-31" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10020" x="1598" y="4206" width="804" height="1048" frameX="-99" frameY="-30" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10021" x="2402" y="4206" width="907" height="177" frameX="-49" frameY="-962" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10022" x="0" y="5273" width="1011" height="210" frameX="0" frameY="-962" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10023" x="1011" y="5273" width="1011" height="210" frameX="0" frameY="-962" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10024" x="1011" y="5273" width="1011" height="210" frameX="0" frameY="-962" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10025" x="1011" y="5273" width="1011" height="210" frameX="0" frameY="-962" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10026" x="1011" y="5273" width="1011" height="210" frameX="0" frameY="-962" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10027" x="1011" y="5273" width="1011" height="210" frameX="0" frameY="-962" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10028" x="1011" y="5273" width="1011" height="210" frameX="0" frameY="-962" frameWidth="1070" frameHeight="1409"/>
+	<SubTexture name="anim instance 10029" x="1011" y="5273" width="1011" height="210" frameX="0" frameY="-962" frameWidth="1070" frameHeight="1409"/>
+</TextureAtlas>

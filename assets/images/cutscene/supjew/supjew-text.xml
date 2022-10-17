@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="supjew-text.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="supjew0000" x="15" y="15" width="111" height="200" frameX="-2" frameY="-51" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0001" x="141" y="15" width="187" height="228" frameX="0" frameY="-24" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0002" x="343" y="15" width="185" height="232" frameX="0" frameY="-20" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0003" x="543" y="15" width="178" height="230" frameX="-1" frameY="-21" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0004" x="736" y="15" width="176" height="229" frameX="-1" frameY="-22" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0005" x="15" y="262" width="176" height="230" frameX="-1" frameY="-21" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0006" x="543" y="15" width="178" height="230" frameX="-1" frameY="-21" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0007" x="736" y="15" width="176" height="229" frameX="-1" frameY="-22" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0008" x="15" y="262" width="176" height="230" frameX="-1" frameY="-21" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0009" x="206" y="262" width="460" height="250" frameX="-1" frameY="-1" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0010" x="15" y="527" width="460" height="251" frameX="-1" frameY="0" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0011" x="490" y="527" width="461" height="250" frameX="-1" frameY="-1" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0012" x="15" y="793" width="460" height="250" frameX="-1" frameY="-1" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0013" x="490" y="793" width="460" height="251" frameX="-1" frameY="0" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0014" x="490" y="527" width="461" height="250" frameX="-1" frameY="-1" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0015" x="15" y="793" width="460" height="250" frameX="-1" frameY="-1" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0016" x="490" y="793" width="460" height="251" frameX="-1" frameY="0" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0017" x="490" y="527" width="461" height="250" frameX="-1" frameY="-1" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0018" x="15" y="793" width="460" height="250" frameX="-1" frameY="-1" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0019" x="490" y="793" width="460" height="251" frameX="-1" frameY="0" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0020" x="490" y="527" width="461" height="250" frameX="-1" frameY="-1" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0021" x="15" y="1059" width="472" height="249" frameX="0" frameY="-3" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0022" x="502" y="1059" width="469" height="249" frameX="0" frameY="-3" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0023" x="15" y="1323" width="357" height="220" frameX="-2" frameY="-31" frameWidth="472" frameHeight="252"/>
+	<SubTexture name="supjew0024" x="15" y="1323" width="357" height="220" frameX="-2" frameY="-31" frameWidth="472" frameHeight="252"/>
+</TextureAtlas>

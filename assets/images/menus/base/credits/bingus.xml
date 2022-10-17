@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bingus.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bingusblink0000" x="176" y="0" width="176" height="145"/>
+	<SubTexture name="bingusblink0001" x="176" y="0" width="176" height="145"/>
+	<SubTexture name="bingusblink0002" x="176" y="0" width="176" height="145"/>
+	<SubTexture name="bingusblink0003" x="0" y="0" width="176" height="145"/>
+	<SubTexture name="bingusblink0004" x="0" y="0" width="176" height="145"/>
+</TextureAtlas>

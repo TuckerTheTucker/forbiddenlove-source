@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="school_assets.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="backcrowdbop0000" x="0" y="0" width="1025" height="550" frameX="0" frameY="-24" frameWidth="1025" frameHeight="574"/>
+	<SubTexture name="backcrowdbop0001" x="0" y="0" width="1025" height="550" frameX="0" frameY="-24" frameWidth="1025" frameHeight="574"/>
+	<SubTexture name="backcrowdbop0002" x="1025" y="0" width="1005" height="567" frameX="-9" frameY="-6" frameWidth="1025" frameHeight="574"/>
+	<SubTexture name="backcrowdbop0003" x="1025" y="0" width="1005" height="567" frameX="-9" frameY="-6" frameWidth="1025" frameHeight="574"/>
+	<SubTexture name="backcrowdbop0004" x="0" y="567" width="997" height="573" frameX="-13" frameY="0" frameWidth="1025" frameHeight="574"/>
+	<SubTexture name="backcrowdbop0005" x="0" y="567" width="997" height="573" frameX="-13" frameY="0" frameWidth="1025" frameHeight="574"/>
+	<SubTexture name="dogpoobop0000" x="997" y="567" width="389" height="573" frameX="0" frameY="-39" frameWidth="389" frameHeight="612"/>
+	<SubTexture name="dogpoobop0001" x="997" y="567" width="389" height="573" frameX="0" frameY="-39" frameWidth="389" frameHeight="612"/>
+	<SubTexture name="dogpoobop0002" x="1386" y="567" width="363" height="599" frameX="-13" frameY="-13" frameWidth="389" frameHeight="612"/>
+	<SubTexture name="dogpoobop0003" x="1386" y="567" width="363" height="599" frameX="-13" frameY="-13" frameWidth="389" frameHeight="612"/>
+	<SubTexture name="dogpoobop0004" x="0" y="1166" width="355" height="612" frameX="-17" frameY="0" frameWidth="389" frameHeight="612"/>
+	<SubTexture name="dogpoobop0005" x="0" y="1166" width="355" height="612" frameX="-17" frameY="0" frameWidth="389" frameHeight="612"/>
+	<SubTexture name="midcrowdbop0000" x="355" y="1166" width="960" height="436" frameX="0" frameY="-22" frameWidth="960" frameHeight="458"/>
+	<SubTexture name="midcrowdbop0001" x="355" y="1166" width="960" height="436" frameX="0" frameY="-22" frameWidth="960" frameHeight="458"/>
+	<SubTexture name="midcrowdbop0002" x="0" y="1778" width="944" height="451" frameX="-8" frameY="-7" frameWidth="960" frameHeight="458"/>
+	<SubTexture name="midcrowdbop0003" x="0" y="1778" width="944" height="451" frameX="-8" frameY="-7" frameWidth="960" frameHeight="458"/>
+	<SubTexture name="midcrowdbop0004" x="944" y="1778" width="936" height="457" frameX="-11" frameY="0" frameWidth="960" frameHeight="458"/>
+	<SubTexture name="midcrowdbop0005" x="944" y="1778" width="936" height="457" frameX="-11" frameY="0" frameWidth="960" frameHeight="458"/>
+	<SubTexture name="bg0000" x="0" y="2235" width="718" height="612"/>
+	<SubTexture name="locker0000" x="928" y="2235" width="1120" height="613"/>
+</TextureAtlas>
