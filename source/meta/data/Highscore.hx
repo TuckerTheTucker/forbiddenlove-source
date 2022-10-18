@@ -54,7 +54,7 @@ class Highscore
 		var daSong:String = song;
 
 		var difficulty:String = '-' + CoolUtil.difficultyFromNumber(diff).toLowerCase();
-		difficulty = difficulty.replace('-normal', '');
+		difficulty = difficulty.replace('-weak', '');
 
 		daSong += difficulty;
 
